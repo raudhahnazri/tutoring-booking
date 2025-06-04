@@ -8,35 +8,37 @@ A web application connecting tutors and students through an intelligent booking 
 
 ---
 
-#### 1. Landing Page
+## Landing Page
 
 <img width="600" src="https://github.com/user-attachments/assets/cffbe722-8104-489d-bcf2-761f3c70fe49" />
 
-#### 2. Students Dashboard
+## Students
+
+#### 1. Students Dashboard
 
 <img width="600" src="https://github.com/user-attachments/assets/beb4a3b1-d5cd-4d62-8196-ca89540d4662" />
 
 
-#### 3. Lessons
+#### 2. Lessons
 
 <img width="600" src="https://github.com/user-attachments/assets/8f635f1c-e90e-4301-85c0-b3d6566edda3" />
 
-#### 4. Request Lesson
+#### 3. Request Lesson
 
 <img width="600" src="https://github.com/user-attachments/assets/4c148a7b-d6d6-4b0b-9fa5-04b01efe62b3" />
 
-#### 5. Changes & Cancellation Request
+#### 4. Changes & Cancellation Request
 
 <img width="600" src="https://github.com/user-attachments/assets/684a334a-07f3-4e6e-a02f-2c8d3aab2c06" />
 
-#### 6. Payment
+#### 5. Payment
 
 <img width="600" src="https://github.com/user-attachments/assets/5f077ccb-ad3c-4fb9-9ece-10765d15a24c" />
 
 ## Tutor 
 #### 1. Tutor Profile
 
-<img width="600" src="https://github.com/user-attachments/assets/5f077ccb-ad3c-4fb9-9ece-10765d15a24c" />
+<img width="600" src="https://github.com/user-attachments/assets/61b02d19-74fa-44bd-8e39-8e0366db4057" />
 
 ## Admin
 
@@ -46,11 +48,7 @@ A web application connecting tutors and students through an intelligent booking 
 
 #### 2. Match Tutor & Student
 
-<img width="600" src="https://github.com/user-attachments/assets/5f077ccb-ad3c-4fb9-9ece-10765d15a24c" />
-
-#### 3. Match Tutor & Student
-
-<img width="600" src="https://github.com/user-attachments/assets/5f077ccb-ad3c-4fb9-9ece-10765d15a24c" />
+<img width="600" src="https://github.com/user-attachments/assets/eb5f5731-8e8c-4803-8caf-aae8eddb0d43" />
 
 #### 4. Manage Term Dates
 
